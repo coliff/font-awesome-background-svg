@@ -1,0 +1,27 @@
+{
+  "name": "font-awesome-background-svg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "font-awesome-background-svg",
+  "homepage": "https://github.com/coliff/font-awesome-background-svg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coliff/font-awesome-background-svg"
+  },
+  "license": "private",
+  "author": "C.Oliff",
+  "scripts": {
+    "gulp-postcss": "gulp postcss",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "postcss-inline-svg": "^4.1.0",
+    "prettier": "^1.19.1",
+    "stylelint": "^13.2.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-standard": "^20.0.0"
+  }
+}

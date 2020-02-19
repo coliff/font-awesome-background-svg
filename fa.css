@@ -1,0 +1,111 @@
+/*!
+ * Font Awesome Free 5.12.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+
+.fa,
+.fab,
+.fad,
+.fal,
+.far,
+.fas {
+  display: inline-block;
+  height: 16px;
+  width: 16px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.fa-xs {
+  height: 12px;
+  width: 12px;
+}
+
+.fa-sm {
+  height: 14px;
+  width: 14px;
+}
+
+.fa-lg {
+  height: 18px;
+  width: 18px;
+}
+
+.fa-2x {
+  height: 32px;
+  width: 32px;
+}
+
+.fa-3x {
+  height: 48px;
+  width: 48px;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
+}
+
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
+}
+
+.fa.fa-pull-left,
+.fab.fa-pull-left,
+.fal.fa-pull-left,
+.far.fa-pull-left,
+.fas.fa-pull-left {
+  margin-right: 0.3em;
+}
+
+.fa.fa-pull-right,
+.fab.fa-pull-right,
+.fal.fa-pull-right,
+.far.fa-pull-right,
+.fas.fa-pull-right {
+  margin-left: 0.3em;
+}
+
+:root .fa-flip-both,
+:root .fa-flip-horizontal,
+:root .fa-flip-vertical,
+:root .fa-rotate-90,
+:root .fa-rotate-180,
+:root .fa-rotate-270 {
+  -webkit-filter: none;
+  filter: none;
+}
+
+.fa-facebook-f {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/facebook-f.svg"
+  );
+}
+
+.fa-linkedin-in {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/linkedin-in.svg"
+  );
+}
+
+.fa-twitter {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/twitter.svg"
+  );
+}
+
+.fa-vimeo-v {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/vimeo-v.svg"
+  );
+}
