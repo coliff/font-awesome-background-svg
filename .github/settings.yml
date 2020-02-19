@@ -4,16 +4,16 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: tm-common-login-page
+  name: font-awesome-background-svg
 
   # A short description of the repository that will show up on GitHub
-  description: tm-common-login-page
+  description: font-awesome-background-svg
 
   # A URL with more information about the repository
-  homepage: https://coliff.github.io/tm-common-login-page/
+  homepage: https://coliff.github.io/font-awesome-background-svg/
 
   # A comma-separated list of topics to set on the repository
-  topics: trimble-maps
+  topics: font-awesome
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: true
