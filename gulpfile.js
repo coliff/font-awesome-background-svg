@@ -5,7 +5,7 @@ gulp.task("postcss", done => {
   gulp
     .src("fa.css")
     .pipe(postcss())
-    .pipe(gulp.dest("dist/css/"));
+    .pipe(gulp.dest("dist/"));
   done();
 });
 
