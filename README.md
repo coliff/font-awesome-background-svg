@@ -5,8 +5,8 @@ Testing using inline background-images for Font Awesome
 ## Setup
 
 1. Run `npm install` to install dependencies
-2. Run `gulp-postcss` to create `fa.min.css`
+2. Run `gulp-postcss` to create `dist/fa.css`
 
 ## Demo
 
-https://coliff.github.io/font-awesome-background-svg/dist/
+https://coliff.github.io/font-awesome-background-svg/

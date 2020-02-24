@@ -124,15 +124,15 @@
   );
 }
 
-.fa-snowboarding {
-  background-image: svg-load(
-    "node_modules/@fortawesome/fontawesome-free/svgs/solid/snowboarding.svg"
-  );
-}
-
 .fa-angle-right {
   background-image: svg-load(
     "node_modules/@fortawesome/fontawesome-free/svgs/solid/angle-right.svg"
+  );
+}
+
+.fa-snowboarding {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/solid/snowboarding.svg"
   );
 }
 
