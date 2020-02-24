@@ -10,3 +10,9 @@ Testing using inline background-images for Font Awesome
 ## Demo
 
 https://coliff.github.io/font-awesome-background-svg/
+
+## Roadmap
+
+- Add Autoprefixer (PostCSS)
+- Create minified output
+- Combine from separate CSS files for brands, regular, solid etc

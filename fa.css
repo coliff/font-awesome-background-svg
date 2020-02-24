@@ -130,9 +130,28 @@
   );
 }
 
+.fa-box {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/solid/box.svg"
+  );
+}
+
 .fa-snowboarding {
   background-image: svg-load(
     "node_modules/@fortawesome/fontawesome-free/svgs/solid/snowboarding.svg"
+  );
+}
+
+
+.fa-apple {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/apple.svg"
+  );
+}
+
+.fa-android {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/android.svg"
   );
 }
 
@@ -145,6 +164,12 @@
 .fa-linkedin-in {
   background-image: svg-load(
     "node_modules/@fortawesome/fontawesome-free/svgs/brands/linkedin-in.svg"
+  );
+}
+
+.fa-linux {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/linux.svg"
   );
 }
 
