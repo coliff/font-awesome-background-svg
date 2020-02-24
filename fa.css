@@ -42,6 +42,26 @@
   width: 48px;
 }
 
+.fa-4x {
+  height: 64px;
+  width: 64px;
+}
+
+.fa-5x {
+  height: 80px;
+  width: 80px;
+}
+
+.fa-7x {
+  height: 90px;
+  width: 90px;
+}
+
+.fa-10x {
+  height: 120px;
+  width: 120px;
+}
+
 .fa-ul {
   list-style-type: none;
   margin-left: 2.5em;
@@ -86,9 +106,27 @@
   filter: none;
 }
 
+.fa-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
 .fa-angle-down {
   background-image: svg-load(
     "node_modules/@fortawesome/fontawesome-free/svgs/solid/angle-down.svg"
+  );
+}
+
+.fa-snowboarding {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/solid/snowboarding.svg"
   );
 }
 

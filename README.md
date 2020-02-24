@@ -9,18 +9,4 @@ Testing using inline background-images for Font Awesome
 
 ## Demo
 
-<link href="dist/fa.css" rel="stylesheet">
-
-#### Brands
-
-<i class="fa fa-fw fab fa-facebook-f"></i>
-<i class="fa fa-fw fab fa-linkedin-in"></i>
-<i class="fa fa-fw fab fa-vimeo-v"></i>
-<i class="fa fa-fw fab fa-twitter"></i>
-
-----------------
-
-#### Solid
-
-<i class="fas fa-fw fa-angle-down"></i>
-<i class="fas fa-fw fa-angle-right"></i>
+https://coliff.github.io/font-awesome-background-svg/dist/
