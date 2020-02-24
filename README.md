@@ -11,7 +11,16 @@ Testing using inline background-images for Font Awesome
 
 <link href="dist/fa.css" rel="stylesheet">
 
-<i class="fab fa-facebook-f"></i>
-<i class="fab fa-linkedin-in"></i>
-<i class="fab fa-vimeo-v"></i>
-<i class="fab fa-twitter"></i>
+#### Brands
+
+<i class="fa fa-fw fab fa-facebook-f"></i>
+<i class="fa fa-fw fab fa-linkedin-in"></i>
+<i class="fa fa-fw fab fa-vimeo-v"></i>
+<i class="fa fa-fw fab fa-twitter"></i>
+
+----------------
+
+#### Solid
+
+<i class="fas fa-fw fa-angle-down"></i>
+<i class="fas fa-fw fa-angle-right"></i>
