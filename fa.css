@@ -58,8 +58,8 @@
 }
 
 .fa-10x {
-  height: 120px;
-  width: 120px;
+  height: 240px;
+  width: 240px;
 }
 
 .fa-ul {
@@ -155,9 +155,27 @@
   );
 }
 
+.fa-facebook {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/facebook.svg"
+  );
+}
+
 .fa-facebook-f {
   background-image: svg-load(
     "node_modules/@fortawesome/fontawesome-free/svgs/brands/facebook-f.svg"
+  );
+}
+
+.fa-facebook-square {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/facebook-square.svg"
+  );
+}
+
+.fa-linkedin {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg"
   );
 }
 
@@ -176,6 +194,18 @@
 .fa-twitter {
   background-image: svg-load(
     "node_modules/@fortawesome/fontawesome-free/svgs/brands/twitter.svg"
+  );
+}
+
+.fa-twitter-square {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/twitter-square.svg"
+  );
+}
+
+.fa-vimeo {
+  background-image: svg-load(
+    "node_modules/@fortawesome/fontawesome-free/svgs/brands/vimeo.svg"
   );
 }
 
