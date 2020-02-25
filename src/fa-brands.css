@@ -28,6 +28,12 @@
   );
 }
 
+.fa-github {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/github.svg"
+  );
+}
+
 .fa-linkedin {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg"
