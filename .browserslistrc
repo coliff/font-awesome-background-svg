@@ -1,0 +1,9 @@
+# https://github.com/browserslist/browserslist#readme
+
+>= 0.2%
+last 5 versions
+not dead
+Firefox ESR
+IE 9
+iOS >= 7
+Android >= 5
