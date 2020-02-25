@@ -1,0 +1,19 @@
+/** Pro icons **/
+
+.fa-comments-alt {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/comments-alt.svg"
+  );
+}
+
+.fa-external-link {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link.svg"
+  );
+}
+
+.fa-user-headset {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/user-headset.svg"
+  );
+}

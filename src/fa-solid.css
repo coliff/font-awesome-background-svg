@@ -34,12 +34,6 @@
   );
 }
 
-.fa-external-link {
-  background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link.svg"
-  );
-}
-
 .fa-external-link-alt {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link-alt.svg"
@@ -73,5 +67,11 @@
 .fa-sync {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/sync.svg"
+  );
+}
+
+.fa-ticket-alt {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/ticket-alt.svg"
   );
 }

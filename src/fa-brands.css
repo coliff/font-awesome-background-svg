@@ -46,6 +46,12 @@
   );
 }
 
+.fa-stack-overflow {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/stack-overflow.svg"
+  );
+}
+
 .fa-twitter {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/brands/twitter.svg"
