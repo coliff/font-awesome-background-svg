@@ -1,0 +1,7 @@
+/** Pro icons **/
+
+.fa-external-link {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-pro/svgs/solid/external-link.svg"
+  );
+}

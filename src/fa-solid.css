@@ -1,0 +1,65 @@
+.fa-angle-down {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/angle-down.svg"
+  );
+}
+
+.fa-angle-right {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/angle-right.svg"
+  );
+}
+
+.fa-box {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/box.svg"
+  );
+}
+
+.fa-check {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/check.svg"
+  );
+}
+
+.fa-check-circle {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/check-circle.svg"
+  );
+}
+
+.fa-cog {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/cog.svg"
+  );
+}
+
+.fa-external-link {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link.svg"
+  );
+}
+
+.fa-external-link-alt {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link-alt.svg"
+  );
+}
+
+.fa-info-circle {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/info-circle.svg"
+  );
+}
+
+.fa-link {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/link.svg"
+  );
+}
+
+.fa-snowboarding {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/snowboarding.svg"
+  );
+}

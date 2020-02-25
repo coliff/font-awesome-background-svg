@@ -5,7 +5,7 @@ Testing using inline background-images for Font Awesome
 ## Setup
 
 1. Run `npm install` to install dependencies
-2. Run `gulp-postcss` to create `dist/fa.css`
+2. Run `npm run all` to create `dist/fa.css`
 
 ## Demo
 

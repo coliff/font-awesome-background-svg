@@ -1,0 +1,83 @@
+.fa-apple {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/apple.svg"
+  );
+}
+
+.fa-android {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/android.svg"
+  );
+}
+
+.fa-facebook {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/facebook.svg"
+  );
+}
+
+.fa-facebook-f {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/facebook-f.svg"
+  );
+}
+
+.fa-facebook-square {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/facebook-square.svg"
+  );
+}
+
+.fa-linkedin {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/linkedin.svg"
+  );
+}
+
+.fa-linkedin-in {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/linkedin-in.svg"
+  );
+}
+
+.fa-linux {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/linux.svg"
+  );
+}
+
+.fa-twitter {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/twitter.svg"
+  );
+}
+
+.fa-twitter-square {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/twitter-square.svg"
+  );
+}
+
+.fa-vimeo {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/vimeo.svg"
+  );
+}
+
+.fa-vimeo-v {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/vimeo-v.svg"
+  );
+}
+
+.fa-youtube {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/youtube.svg"
+  );
+}
+
+.fa-youtube-square {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/youtube-square.svg"
+  );
+}
