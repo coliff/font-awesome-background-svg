@@ -63,3 +63,15 @@
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/snowboarding.svg"
   );
 }
+
+.fa-spinner {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/spinner.svg"
+  );
+}
+
+.fa-sync {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/sync.svg"
+  );
+}
