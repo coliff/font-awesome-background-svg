@@ -1,6 +1,6 @@
 # Font Awesome Icons as inline SVG backgrounds (Experimental)
 
-Testing using inline SVG background-images for Font Awesome.
+Testing using inline SVG background-images for [Font Awesome](https://fontawesome.com/icons?d=gallery).
 
 No JavaScript or Webfonts needed! Include just the icons you need.
 
