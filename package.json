@@ -22,6 +22,7 @@
     "gulp-rename": "gulp rename",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {},
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.12.1",
     "autoprefixer": "^9.7.4",
@@ -36,6 +37,5 @@
     "stylelint": "^13.2.0",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-standard": "^20.0.0"
-  },
-  "dependencies": {}
+  }
 }
