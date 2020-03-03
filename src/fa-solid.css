@@ -1,76 +1,82 @@
-.fa-angle-down {
+.fas.fa-address-book {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/address-book.svg"
+  );
+}
+
+.fas.fa-angle-down {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/angle-down.svg"
   );
 }
 
-.fa-angle-right {
+.fas.fa-angle-right {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/angle-right.svg"
   );
 }
 
-.fa-box {
+.fas.fa-box {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/box.svg"
   );
 }
 
-.fa-check {
+.fas.fa-check {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/check.svg"
   );
 }
 
-.fa-check-circle {
+.fas.fa-check-circle {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/check-circle.svg"
   );
 }
 
-.fa-cog {
+.fas.fa-cog {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/cog.svg"
   );
 }
 
-.fa-external-link-alt {
+.fas.fa-external-link-alt {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link-alt.svg"
   );
 }
 
-.fa-info-circle {
+.fas.fas.fa-info-circle {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/info-circle.svg"
   );
 }
 
-.fa-link {
+.fas.fa-link {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/link.svg"
   );
 }
 
-.fa-snowboarding {
+.fas.fa-snowboarding {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/snowboarding.svg"
   );
 }
 
-.fa-spinner {
+.fas.fa-spinner {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/spinner.svg"
   );
 }
 
-.fa-sync {
+.fas.fa-sync {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/sync.svg"
   );
 }
 
-.fa-ticket-alt {
+.fas.fa-ticket-alt {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/solid/ticket-alt.svg"
   );
