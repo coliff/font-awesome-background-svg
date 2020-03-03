@@ -1,8 +1,9 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/coliff/font-awesome-background-svg/master/LICENSE)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![PRS Welcome](https://img.shields.io/badge/PRS-Welcome-brightgreen)](https://github.com/coliff/font-awesome-background-svg)
+[![Status: Experimental](https://img.shields.io/badge/Status-Experimental-purple)](https://github.com/coliff/font-awesome-background-svg)
 
-# Font Awesome Icons as inline SVG backgrounds (Experimental)
+# Font Awesome Icons as inline SVG backgrounds
 
 Testing using inline SVG background-images for [Font Awesome](https://fontawesome.com/icons?d=gallery).
 
