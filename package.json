@@ -4,6 +4,9 @@
   "private": true,
   "description": "font-awesome-background-svg",
   "homepage": "https://github.com/coliff/font-awesome-background-svg",
+  "bugs": {
+    "url": "https://github.com/coliff/font-awesome-background-svg/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/coliff/font-awesome-background-svg"
