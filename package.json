@@ -27,7 +27,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@fortawesome/fontawesome-free": "^5.13.0",
     "autoprefixer": "^9.7.4",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
