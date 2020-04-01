@@ -14,7 +14,6 @@
   "license": "MIT",
   "author": {
     "name": "C.Oliff",
-    "email": "code@christianoliff.com",
     "url": "https://christianoliff.com"
   },
   "scripts": {
@@ -28,7 +27,7 @@
   "dependencies": {},
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
-    "autoprefixer": "^9.7.4",
+    "autoprefixer": "^9.7.5",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat-css": "^3.1.0",
