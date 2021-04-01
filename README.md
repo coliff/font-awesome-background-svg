@@ -17,4 +17,4 @@ No JavaScript or Webfonts needed! Include just the icons you need.
 
 ## Demo
 
-https://coliff.github.io/font-awesome-background-svg/
+https://coliff.github.io/font-awesome-background-svg/index.html
