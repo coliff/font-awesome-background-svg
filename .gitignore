@@ -1,7 +1,6 @@
 node_modules/
 
 .DS_Store
-.npmrc
 npm-debug.log
 package-lock.json
 Thumbs.db

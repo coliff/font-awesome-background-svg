@@ -28,21 +28,9 @@
   );
 }
 
-.fas.fa-check-circle {
+.fas.fa-external-link {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/check-circle.svg"
-  );
-}
-
-.fas.fa-cog {
-  background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/cog.svg"
-  );
-}
-
-.fas.fa-external-link-alt {
-  background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link-alt.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link.svg"
   );
 }
 

@@ -22,12 +22,6 @@
   );
 }
 
-.fa-facebook-square {
-  background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/facebook-square.svg"
-  );
-}
-
 .fa-github {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/brands/github.svg"
@@ -64,12 +58,6 @@
   );
 }
 
-.fa-twitter-square {
-  background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/twitter-square.svg"
-  );
-}
-
 .fa-vimeo {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/brands/vimeo.svg"
@@ -85,11 +73,5 @@
 .fa-youtube {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/brands/youtube.svg"
-  );
-}
-
-.fa-youtube-square {
-  background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/youtube-square.svg"
   );
 }

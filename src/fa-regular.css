@@ -10,21 +10,15 @@
   );
 }
 
-.far.fa-calendar-alt {
+.far.fa-calendar {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/regular/calendar-alt.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/regular/calendar.svg"
   );
 }
 
 .far.fa-chart-bar {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/chart-bar.svg"
-  );
-}
-
-.far.fa-check-circle {
-  background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/regular/check-circle.svg"
   );
 }
 
@@ -49,6 +43,12 @@
 .far.fa-credit-card {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/credit-card.svg"
+  );
+}
+
+.far.fa-person-snowboarding {
+  background-image: svg-load(
+    "../node_modules/@fortawesome/fontawesome-free/svgs/regular/person-snowboarding.svg"
   );
 }
 
