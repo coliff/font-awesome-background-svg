@@ -46,12 +46,6 @@
   );
 }
 
-.far.fa-person-snowboarding {
-  background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/regular/person-snowboarding.svg"
-  );
-}
-
 .far.fa-star {
   background-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/star.svg"

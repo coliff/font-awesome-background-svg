@@ -6,9 +6,9 @@
   );
 }
 
-.fa-external-link {
+.fa-square-arrow-up-right {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/square-arrow-up-right.svg"
   );
 }
 

@@ -52,9 +52,9 @@
   );
 }
 
-.fa-twitter {
+.fa-x-twitter {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/twitter.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/brands/x-twitter.svg"
   );
 }
 

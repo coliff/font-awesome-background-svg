@@ -28,15 +28,15 @@
   );
 }
 
-.fas.fa-external-link {
+.fas.fa-square-arrow-up-right {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/external-link.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/square-arrow-up-right.svg"
   );
 }
 
-.fas.fas.fa-info-circle {
+.fas.fas.fa-circle-info {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/info-circle.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/circle-info.svg"
   );
 }
 
@@ -46,9 +46,9 @@
   );
 }
 
-.fas.fa-snowboarding {
+.fas.fa-person-snowboarding {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/snowboarding.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/person-snowboarding.svg"
   );
 }
 
@@ -58,14 +58,14 @@
   );
 }
 
-.fas.fa-sync {
+.fas.fa-rotate {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/sync.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/rotate.svg"
   );
 }
 
-.fas.fa-ticket-alt {
+.fas.fa-ticket {
   background-image: svg-load(
-    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/ticket-alt.svg"
+    "../node_modules/@fortawesome/fontawesome-free/svgs/solid/ticket.svg"
   );
 }
