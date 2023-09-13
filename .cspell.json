@@ -1,0 +1,21 @@
+{
+  "version": "0.2",
+  "allowCompoundWords": true,
+  "ignorePaths": [
+    ".cspell.json",
+    "**/node_modules/**",
+    "**/*.min.*"
+  ],
+  "language": "en,en-US",
+  "useGitignore": true,
+  "words": [
+    "Cpath",
+    "Csvg",
+    "fontawesome",
+    "fortawesome",
+    "octo",
+    "octocat",
+    "Oliff",
+    "svgs"
+  ]
+}

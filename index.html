@@ -5,14 +5,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="dist/fa.css">
-  <title>Font Awesome Icons as SVG Background Images</title>
-  <meta name="monetization" content="$ilp.uphold.com/Epqzn3YGr2MB">
+  <title>Font Awesome Icons as CSS SVG Image Masks</title>
   <link rel="author" href="https://christianoliff.com/">
   <style>
     html,
     body {
       font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, noto sans, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji;
-      background-color: #fff;
+      background-color: #eee;
       color: #444;
       max-width: 680px;
       margin-left: auto;
@@ -36,7 +35,7 @@
     }
 
     .bg-dark {
-      background-color: black;
+      background-color: #000;
       width: 70px;
     }
 
@@ -93,8 +92,8 @@
 
   <h3>Regular</h3>
 
-  <i class="far fa-2x fa-fw fa-address-book" title="fa-address-book"></i>
-  <i class="far fa-2x fa-fw fa-bookmark" title="fa-bookmark"></i>
+  <div class="far fa-2x fa-fw fa-address-book" title="fa-address-book"></div>
+  <div class="far fa-2x fa-fw fa-bookmark" title="fa-bookmark"></div>
   <i class="far fa-2x fa-fw fa-calendar" title="fa-calendar"></i>
   <i class="far fa-2x fa-fw fa-chart-bar" title="fa-chart-bar"></i>
   <i class="far fa-2x fa-fw fa-clipboard" title="fa-clipboard"></i>
@@ -108,28 +107,30 @@
 
   <h3>Solid</h3>
 
+  <i class="fas fa-2x fa-fw fa-address-book"></i>
   <i class="fas fa-2x fa-fw fa-angle-down"></i>
   <i class="fas fa-2x fa-fw fa-angle-right"></i>
   <i class="fas fa-2x fa-fw fa-box" title="fa-box"></i>
   <i class="fas fa-2x fa-fw fa-check" title="fa-check"></i>
-  <i class="fas fa-2x fa-fw fa-check-circle"></i>
+  <i class="fas fa-2x fa-fw fa-circle-info"></i>
+  <i class="fas fa-2x fa-fw fa-link"></i>
 
   <hr>
 
   <h3>Brands</h3>
 
-  <i class="fa fa-2x fa-fw fab fa-apple"></i>
-  <i class="fa fa-2x fa-fw fab fa-android"></i>
+  <i class="fa fa-2x fa-fw fab fa-apple" style="background-color: #222;"></i>
+  <i class="fa fa-2x fa-fw fab fa-android" style="background-color: #a4c639;"></i></i>
   <i class="fa fa-2x fa-fw fab fa-github"></i>
-  <i class="fa fa-2x fa-fw fab fa-facebook"></i>
-  <i class="fa fa-2x fa-fw fab fa-facebook-f"></i>
-  <i class="fa fa-2x fa-fw fab fa-linkedin"></i>
-  <i class="fa fa-2x fa-fw fab fa-linkedin-in"></i>
+  <i class="fa fa-2x fa-fw fab fa-facebook" style="background-color: #1877f2;"></i>
+  <i class="fa fa-2x fa-fw fab fa-facebook-f" style="background-color: #1877f2;"></i>
+  <i class="fa fa-2x fa-fw fab fa-linkedin" style="background-color: #0a66c2;"></i>
+  <i class="fa fa-2x fa-fw fab fa-linkedin-in" style="background-color: #0a66c2;"></i>
   <i class="fa fa-2x fa-fw fab fa-linux" title="fa-linux"></i>
-  <i class="fa fa-2x fa-fw fab fa-stack-overflow" title="fa-stack-overflow"></i>
+  <i class="fa fa-2x fa-fw fab fa-stack-overflow" style="background-color: #f48024;" title="fa-stack-overflow"></i>
   <i class="fa fa-2x fa-fw fab fa-x-twitter" title="fa-twitter"></i>
-  <i class="fa fa-2x fa-fw fab fa-vimeo" title="fa-vimeo"></i>
-  <i class="fa fa-2x fa-fw fab fa-vimeo-v"></i>
+  <i class="fa fa-2x fa-fw fab fa-vimeo" style="background-color: #1ab7ea;" title="fa-vimeo"></i>
+  <i class="fa fa-2x fa-fw fab fa-vimeo-v" style="background-color: #1ab7ea;"></i>
 
   <hr>
 
@@ -161,8 +162,7 @@
 
   <h3>Animating Icons</h3>
   <i class="fa-4x fas fa-spinner fa-spin"></i>
-  <i class="fa-4x fas fa-sync fa-spin"></i>
-  <i class="fa-4x fas fa-cog fa-spin"></i>
+  <i class="fa-4x fas fa-rotate fa-spin"></i>
   <i class="fa-4x fas fa-spinner fa-pulse"></i>
 
   <hr>

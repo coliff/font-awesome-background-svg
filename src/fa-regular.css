@@ -1,59 +1,59 @@
 .far.fa-address-book {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/address-book.svg"
   );
 }
 
 .far.fa-bookmark {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/bookmark.svg"
   );
 }
 
 .far.fa-calendar {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/calendar.svg"
   );
 }
 
 .far.fa-chart-bar {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/chart-bar.svg"
   );
 }
 
 .far.fa-clipboard {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/clipboard.svg"
   );
 }
 
 .far.fa-comment {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/comment.svg"
   );
 }
 
 .far.fa-copy {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/copy.svg"
   );
 }
 
 .far.fa-credit-card {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/credit-card.svg"
   );
 }
 
 .far.fa-star {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/star.svg"
   );
 }
 
 .far.fa-sun {
-  background-image: svg-load(
+  mask-image: svg-load(
     "../node_modules/@fortawesome/fontawesome-free/svgs/regular/sun.svg"
   );
 }
