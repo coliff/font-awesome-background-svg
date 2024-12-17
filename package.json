@@ -33,7 +33,7 @@
     "test": "npm run build"
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "6.6.0",
+    "@fortawesome/fontawesome-free": "6.7.1",
     "autoprefixer": "10.4.15",
     "gulp": "4.0.2",
     "gulp-clean-css": "4.3.0",
